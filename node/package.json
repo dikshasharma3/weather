@@ -1,0 +1,14 @@
+{
+  
+  "dependencies": {
+  
+  "express": "^5.1.0",
+  "node-localstorage": "^3.0.5",
+  "version": "^0.1.2"
+  
+  },
+  
+  "type": "module",
+  
+  "name": "diksha"
+}
